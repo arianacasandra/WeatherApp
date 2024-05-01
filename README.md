@@ -1,7 +1,7 @@
 # Weather App
 
 Weather App is a web application for checking the current weather conditions of cities around the world. It utilizes the OpenWeatherMap API to fetch weather data.
-https://arianacasandra.github.io/arianacasandra.weather.app.github.io/
+https://arianacasandra.github.io/WeatherApp/
 ## Features
 
 - Check current weather conditions by entering a city name.
